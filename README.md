@@ -1,6 +1,6 @@
 # Project-1
 
-Project 1  is a complete reimbursement application with employee and manager functionality. 
+Project 1  is a complete employee reimbursement application with employee and manager functionality. 
 
 # Employee
 
